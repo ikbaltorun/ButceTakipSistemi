@@ -1,0 +1,7 @@
+--- İKBAL HARCAMA RAPORU ---
+Tarih: 15.06.2026 16:29:41
+-------------------------------
+Kategori: Gıda - Tutar: 5000 TL
+Kategori: Fatura - Tutar: 550 TL
+Kategori: Kira - Tutar: 10000 TL
+Kategori: Fatura - Tutar: 1000 TL

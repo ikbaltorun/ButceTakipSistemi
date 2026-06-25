@@ -1,0 +1,12 @@
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\bin\Debug\ButceTakipSistemi.exe.config
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\bin\Debug\ButceTakipSistemi.exe
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\bin\Debug\ButceTakipSistemi.pdb
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\obj\Debug\ButceTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\obj\Debug\ButceTakipSistemi.Form1.resources
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\obj\Debug\ButceTakipSistemi.Properties.Resources.resources
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\obj\Debug\ButceTakipSistemi.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\obj\Debug\ButceTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\obj\Debug\ButceTak.2B1B5146.Up2Date
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\obj\Debug\ButceTakipSistemi.exe
+C:\Users\MSI\Desktop\ButceTakipSistemi\ButceTakipSistemi\obj\Debug\ButceTakipSistemi.pdb
