@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|c:\\users\\msi\\desktop\\butcetakipsistemi\\butcetakipsistemi\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|c:\\users\\msi\\desktop\\butcetakipsistemi\\butcetakipsistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,30 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -71,12 +71,11 @@
               "ViewState": "AgIAAFMAAAAAAAAAAAAgwA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T18:34:48.223Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -85,12 +84,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T20:38:07.12Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -104,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
@@ -113,12 +111,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T20:40:14.616Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Form5.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
@@ -127,12 +124,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:30:49.238Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Form6.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form6.cs",
               "RelativeDocumentMoniker": "Form6.cs",
@@ -141,12 +137,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:42:47.046Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -154,12 +149,11 @@
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T19:51:53.742Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -167,12 +161,11 @@
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T19:49:01.243Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -185,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
@@ -193,12 +186,11 @@
               "RelativeToolTip": "Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T19:54:34.669Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
@@ -206,12 +198,11 @@
               "RelativeToolTip": "Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:18:31.905Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\Form6.cs",
               "RelativeDocumentMoniker": "Form6.cs",

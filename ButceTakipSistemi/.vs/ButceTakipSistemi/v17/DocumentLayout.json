@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|c:\\users\\msi\\desktop\\butcetakipsistemi\\butcetakipsistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|c:\\users\\msi\\desktop\\butcetakipsistemi\\butcetakipsistemi\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|C:\\Users\\MSI\\Desktop\\ButceTakipSistemi\\ButceTakipSistemi\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9EA9C63-B2B0-4723-9D59-DFC23E3E83BA}|ButceTakipSistemi.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -75,8 +75,7 @@
               "ViewState": "AgIAAFMAAAAAAAAAAAAgwA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T18:34:48.223Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T20:38:07.12Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T20:40:14.616Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -131,8 +128,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:30:49.238Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -145,8 +141,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:42:47.046Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -158,8 +153,7 @@
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T19:51:53.742Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -171,8 +165,7 @@
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T19:49:01.243Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -197,8 +190,7 @@
               "RelativeToolTip": "Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T19:54:34.669Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -210,8 +202,7 @@
               "RelativeToolTip": "Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:18:31.905Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -223,8 +214,7 @@
               "RelativeToolTip": "Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:41:45.31Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             }
           ]
         }
