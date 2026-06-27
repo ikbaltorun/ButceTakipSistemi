@@ -25,6 +25,18 @@ Bu proje, kullanıcıların günlük harcamalarını kategorize ederek kaydetmel
 | ![Grafik](butcetakipgrafik.png) | ![Admin](butcetakipadmin.png) |
 
 ## 🚀 Kurulum
-1. Repoyu klonlayın:
+**1. Repoyu klonlayın:**
    ```bash
-   git clone [https://github.com/ikbaltorun/ButceTakipSistemi.git](https://github.com/ikbaltorun/ButceTakipSistemi.git)
+   git clone https://github.com/ikbaltorun/ButceTakipSistemi.git
+   ```
+**2.Proje Klasörüne Girin:**
+   ```bash
+   cd butce-takip-sistemi
+   ```
+**3.Projeyi Çalıştırın:**
+İndirdiğiniz klasörün içindeki .sln (Solution) uzantılı dosyayı Visual Studio ile açın.
+Veritabanı bağlantı ayarlarınızı app.config veya connection strings kısmından kendi yerel sunucunuza göre güncelleyin.
+Visual Studio üzerinde "Start" butonuna basarak uygulamayı başlatabilirsiniz.
+
+---
+*İkbal Torun | 2026*
