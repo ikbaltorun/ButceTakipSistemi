@@ -31,7 +31,7 @@ Bu proje, kullanıcıların günlük harcamalarını kategorize ederek kaydetmel
    ```
 **2.Proje Klasörüne Girin:**
    ```bash
-   cd butce-takip-sistemi
+   cd ButceTakipSistemi
    ```
 **3.Projeyi Çalıştırın:**
 İndirdiğiniz klasörün içindeki .sln (Solution) uzantılı dosyayı Visual Studio ile açın.
