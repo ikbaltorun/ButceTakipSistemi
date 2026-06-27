@@ -29,14 +29,18 @@ Bu proje, kullanıcıların günlük harcamalarını kategorize ederek kaydetmel
    ```bash
    git clone https://github.com/ikbaltorun/ButceTakipSistemi.git
    ```
-**2.Proje Klasörüne Girin:**
+**2. Projeyi Çalıştırın:**
+Projeyi çalıştırmak için aşağıdaki iki yöntemden birini kullanabilirsiniz:
+
+Yöntem 1 (Klasik): İndirdiğiniz klasöre gidin, .sln uzantılı dosyayı bulun ve çift tıklayarak Visual Studio ile açın. Ardından F5 tuşuna basarak başlatın.
+
+Yöntem 2 (Terminal): Terminal üzerinden proje klasörüne girdikten sonra şu komutla Visual Studio'yu otomatik başlatın:
    ```bash
    cd ButceTakipSistemi
    ```
-**3.Projeyi Çalıştırın:**
-İndirdiğiniz klasörün içindeki .sln (Solution) uzantılı dosyayı Visual Studio ile açın.
-Veritabanı bağlantı ayarlarınızı app.config veya connection strings kısmından kendi yerel sunucunuza göre güncelleyin.
-Visual Studio üzerinde "Start" butonuna basarak uygulamayı başlatabilirsiniz.
+   ```bash
+   start ButceTakipSistemi.sln
+   ```
 
 ---
 *İkbal Torun | 2026*
