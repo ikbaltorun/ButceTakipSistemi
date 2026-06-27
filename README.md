@@ -11,7 +11,7 @@ Bu proje, kullanıcıların günlük harcamalarını kategorize ederek kaydetmel
 
 ## 💻 Kullanılan Teknolojiler
 * **Dil:** C# (.NET Framework / WinForms)
-* **Veritabanı:** [Buraya kullandığın veritabanını yaz, örn: MS SQL Server / SQLite]
+* **Veritabanı:** SQLite
 * **Görselleştirme:** Windows Forms Charting API
 
 ## 🖼️ Ekran Görüntüleri
