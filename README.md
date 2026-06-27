@@ -41,6 +41,7 @@ Yöntem 2 (Terminal): Terminal üzerinden proje klasörüne girdikten sonra şu 
    ```bash
    start ButceTakipSistemi.sln
    ```
+Not: git clone işleminden sonra cd ButceTakipSistemi komutunu iki kez art arda kullanmanız gerekebilir (klasör yapısı iç içe olduğu için).
 
 ---
 *İkbal Torun | 2026*
